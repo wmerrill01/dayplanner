@@ -30,4 +30,4 @@ THEN the saved events persist
 ## Link to deployed application
 
 
-[Here is a link to my deployed code](https://wmerrill01.github.io/codequiz/)
+[Here is a link to my deployed code](https://wmerrill01.github.io/dayplanner/)
