@@ -27,11 +27,34 @@ if (JSON.parse(localStorage.getItem("userInput"))) {
     userSave = {
         nine:"",
         ten:"",
+        eleven:"",
+        twelve:"",
+        thirteen:"",
+        fourteen:"",
+        fifteen:"",
+        sixteen:"",
+        seventeen:"",
     }
 };
 
 var field9 = document.querySelector("#nine");
 field9.value = userSave.nine;
+var field10 = document.querySelector("#ten");
+field10.value = userSave.ten;
+var field11 = document.querySelector("#eleven");
+field11.value = userSave.eleven;
+var field12 = document.querySelector("#twelve");
+field12.value = userSave.twelve;
+var field13 = document.querySelector("#thirteen");
+field13.value = userSave.thirteen;
+var field14 = document.querySelector("#fourteen");
+field14.value = userSave.fourteen;
+var field15 = document.querySelector("#fifteen");
+field15.value = userSave.fifteen;
+var field16 = document.querySelector("#sixteen");
+field16.value = userSave.sixteen;
+var field17 = document.querySelector("#seventeen");
+field17.value = userSave.seventeen;
 
 
 
